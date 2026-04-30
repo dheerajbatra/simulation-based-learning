@@ -1,7 +1,10 @@
 SBL - Sim Based Learning!
 
-Will be adding more content and code/app
+<img width="782" height="582" alt="IMAGE 2026-04-30 12:42:21" src="https://github.com/user-attachments/assets/52ca5ecb-38a4-47b2-8973-b6e43a9a99c4" />
 
+<p>
+Will be adding more content and code/app
+</p>
 --
 Landing Page:
 --
